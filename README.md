@@ -11,4 +11,4 @@
 HTML / CSS / JavaScript
 
 ## 在线访问地址
-部署完成后，把Vercel链接粘贴在这里
+https://vercel.com/zyj-1102/quiz-game/42zTmpjmmuRkgTQ9kATJF41szoMa
