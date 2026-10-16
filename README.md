@@ -11,4 +11,4 @@
 HTML / CSS / JavaScript
 
 ## 在线访问地址
-https://vercel.com/zyj-1102/quiz-game/42zTmpjmmuRkgTQ9kATJF41szoMa
+https://www.myzyj.asia
